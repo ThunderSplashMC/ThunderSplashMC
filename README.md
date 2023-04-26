@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThunderSplashMC
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Not
 
